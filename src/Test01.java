@@ -4,5 +4,7 @@ public class Test01 {
         System.out.println(11);
         System.out.println(02);
         System.out.println(33);
+        System.out.println(33);
+        System.out.println(44);
     }
 }
